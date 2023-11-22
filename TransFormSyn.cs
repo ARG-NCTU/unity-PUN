@@ -7,7 +7,7 @@ using geo_msgs = RosSharp.RosBridgeClient.MessageTypes.Geometry;
 using Photon.Pun;
 using UnityEngine;
 
-public class tfSyn : MonoBehaviour
+public class TransFormSyn : MonoBehaviour
 {
     private PhotonView photonView;
 

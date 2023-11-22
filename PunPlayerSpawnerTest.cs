@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 
-public class pun_player_spawner_test : MonoBehaviourPunCallbacks
+public class PunPlayerSpawnerTest : MonoBehaviourPunCallbacks
 {
     private GameObject spawnPlayerprefab;
     private bool firstPlayer;

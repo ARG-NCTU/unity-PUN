@@ -4,7 +4,7 @@ using UnityEngine;
 using Photon.Pun;
 
 
-public class pun_rpc_test_color : MonoBehaviour
+public class PunRpcTestColor : MonoBehaviour
 {
     public GameObject cub;
     private PhotonView photonView;
